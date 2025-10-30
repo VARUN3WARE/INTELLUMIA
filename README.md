@@ -1,5 +1,7 @@
 # Intellumia
 
+[LLM SESSION Link](https://claude.ai/share/27c0b856-16cd-4c75-9c39-49a00131a61f)
+
 This file describes the refactored layout and how to run the demo without modifying the original project README.
 
 Files added by the refactor:
